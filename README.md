@@ -30,6 +30,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-cyan?style=plastice&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=annademae&style=flat-square&color=blue" alt=""/>
+
+  
 </div>
 
 
