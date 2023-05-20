@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 
 ---
 
-### :woman_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy 
+### :woman_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="30"> from Italy 
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Continue learning programming 
@@ -72,3 +73,5 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=annadema&theme=tokyonight-duo&locale=it)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annadema&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
