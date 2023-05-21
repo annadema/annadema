@@ -52,6 +52,10 @@ title with greetings + hand icon
   
 </div>     <!-- end div header --> 
 
+<!-- 
+gif with keyboard and writing
+-->  
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGMwNWIxOGE2NDQ2NDk1MzA0ZjhiYjg0MTJlMTIwNGJhZGVlMzFmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
