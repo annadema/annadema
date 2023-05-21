@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 
-<-- header  -->
-<-- social badges  -->
+<!-- header  -->
+<!-- social badges  -->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>  
