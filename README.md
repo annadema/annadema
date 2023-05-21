@@ -6,37 +6,51 @@
 -->
 
 
-<!-- 
-header  
-social badges  
--->
+
 
 <div id="header" align="center">
+  
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>  
+         
+<!--  
+social badges  
+-->  
   <div id="badges">
-  <a href="https://www.linkedin.com/in/annamaria-de-martino-3a76a225/">
-    <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>    
-  <a href="https://www.instagram.com/annadema2/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=plastic&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>    
-  <a href="https://twitter.com/annadema2">
-    <img src="https://img.shields.io/badge/Twitter-cyan?style=plastice&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
+          <a href="https://www.linkedin.com/in/annamaria-de-martino-3a76a225/">
+            <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+          </a>    
+          <a href="https://www.instagram.com/annadema2/">
+            <img src="https://img.shields.io/badge/Instagram-pink?style=plastic&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+          </a>    
+          <a href="https://twitter.com/annadema2">
+            <img src="https://img.shields.io/badge/Twitter-cyan?style=plastice&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+          </a>
+   </div>
   
 <!-- 
 access counter  
 -->   
+  
 <img src="https://komarev.com/ghpvc/?username=annadema&style=flat-square&color=blue" alt=""/>
 
+<!-- 
+buy me a coffe 
+-->    
+  
+  <a href="https://www.buymeacoffee.com/annamariad5" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+  </a>
+
+  <!-- 
+title with greetings + hand icon 
+-->  
+  
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"/>
 </h1>
   
-</div>
+</div>     <!-- end div header --> 
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGMwNWIxOGE2NDQ2NDk1MzA0ZjhiYjg0MTJlMTIwNGJhZGVlMzFmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
