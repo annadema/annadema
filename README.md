@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<-- header  -->
+<-- social badges  -->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>  
   <div id="badges">
@@ -28,6 +33,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-cyan?style=plastice&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  
+  
+  
 <img src="https://komarev.com/ghpvc/?username=annadema&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
